@@ -1,0 +1,8 @@
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+C:\Users\LeonB\Source\Repos\DelegatesAndEvents\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\LeonB\Source\Repos\DelegatesAndEvents\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\LeonB\Source\Repos\DelegatesAndEvents\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

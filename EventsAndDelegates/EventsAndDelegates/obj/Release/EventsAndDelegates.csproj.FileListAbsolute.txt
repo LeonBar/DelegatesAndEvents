@@ -1,0 +1,5 @@
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\bin\Release\EventsAndDelegates.exe.config
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\bin\Release\EventsAndDelegates.exe
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\bin\Release\EventsAndDelegates.pdb
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\obj\Release\EventsAndDelegates.exe
+C:\MyDevelopment\CSINDepthExamples\4.1\EventsAndDelegates\EventsAndDelegates\obj\Release\EventsAndDelegates.pdb
